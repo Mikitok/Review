@@ -39,3 +39,8 @@ LSTM可以将都梯度爆炸的概率。传统的RNN网络因为循环乘以同�
 ## References
 1. [LSTM梯度](https://www.zhihu.com/question/34878706)
 2. [LSTM激活函数](https://www.zhihu.com/question/46197687?sort=created)
+1. [LSTM理解](https://www.cnblogs.com/mj-selina/p/12463265.html)
+2. [人人都能看懂的GRU](https://zhuanlan.zhihu.com/p/32481747)
+3. [LSTM 和GRU的区别](https://blog.csdn.net/u012223913/article/details/77724621)
+1. [TextCNN模型原理和实现](https://www.cnblogs.com/bymo/p/9675654.html)
+2. [文本分类算法TextCNN原理详解（一）](https://www.cnblogs.com/ModifyRong/p/11319301.html)
