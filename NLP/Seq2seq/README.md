@@ -25,4 +25,5 @@ BS与Viterbi计算过程十分相似，但是BS保留了top K个节点的结果�
 ## References
 1. [Seq2Seq简介](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.5%20seq2seq)
 2. [BLEU](https://www.cnblogs.com/jiangxinyang/p/10523585.html)
+3. [Viterbi 算法 与 beam-seach 算法](https://www.jianshu.com/p/0d8cae008f28)
 
