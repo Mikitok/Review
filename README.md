@@ -2,5 +2,7 @@
 &emsp; &emsp; 因为平时复习也会进行一些问答和看一些资料，所以这里是一个汇总帖。
 
 ### NLP
-1. [Seq2Seq](https://github.com/Mikitok/Review/blob/master/NLP/Seq2seq/README.md)
+1. [Word Embedding](https://github.com/Mikitok/Review/tree/master/NLP/WordEmbedding)
+2. [TextRNN & TextCNN](https://github.com/Mikitok/Review/tree/master/NLP/TextRNN&TextCNN)
+3. [Seq2Seq](https://github.com/Mikitok/Review/blob/master/NLP/Seq2seq)
 
