@@ -21,5 +21,5 @@ word2vec是单词级别的，fasttext是ngrams级别的，涉及到了更细粒�
 3. 由采用字粒度变化为采用词粒度
 
 ## References
-
+1. [cs224n](https://www.bilibili.com/video/BV1pt411h7aT)
 
