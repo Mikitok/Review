@@ -26,11 +26,16 @@
 
 由于单词映射在高维空间作为向量形式，每一维空间都可以学到不同的特征，相邻空间所学结果更相似，相较于全体空间放到一起对应更加合理。比如对于vector-size=512的词向量，取h=8，每64个空间做一个attention，学到结果更细化。
 
+**Q: seq2seq中生成重复序列的问题如何通过注意力解决（减弱）**
+
+增加attention正则化项，记录各个词语的在decoder不同step的attention权重，重复生成的单词一般会多次产生较大的attention，所以对这种情况做个惩罚。公式参见[Seq2Seq，attention机制的一些问题及解决方案](https://blog.csdn.net/CsWarmSun/article/details/106106388)。
+
 
 ## References
 1. [Attention机制详解（一）](https://zhuanlan.zhihu.com/p/47063917)
 2. [Attention机制详解（二）](https://zhuanlan.zhihu.com/p/47282410)
 3. [各种注意力机制](https://blog.csdn.net/qq_32806793/article/details/88782157)
 4. [Attention 和self-attention](https://www.cnblogs.com/AntonioSu/p/12019534.html)
+5. [Seq2Seq，attention机制的一些问题及解决方案](https://blog.csdn.net/CsWarmSun/article/details/106106388)
 
 
