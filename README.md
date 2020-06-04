@@ -9,4 +9,5 @@
 2. [TextRNN & TextCNN](https://github.com/Mikitok/Review/tree/master/NLP/TextRNN&TextCNN)
 3. [Seq2Seq](https://github.com/Mikitok/Review/blob/master/NLP/Seq2seq)
 4. [Attention](https://github.com/Mikitok/Review/blob/master/NLP/Attention)
+5. [Tansformer](https://github.com/Mikitok/Review/edit/master/NLP/Transformer)
 
