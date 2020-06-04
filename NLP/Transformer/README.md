@@ -19,8 +19,6 @@ Transformer训练过程与seq2seq类似，使用Encoder端得到输入的表示�
 1. concat会增加向量的维度。
 2. 根据李宏毅的介绍，将两个向量concat，然后乘以一个权重矩阵，在线性代数技巧下，可以得到和相加一样的结果。
 
-**Q：Transformer的decorder部分的mask和encorder部分的mask有什么不同**
-
 **Q：Transformer输入长文本的改进**
 
 Transformer-XL
