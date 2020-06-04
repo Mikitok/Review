@@ -23,6 +23,11 @@ Transformer训练过程与seq2seq类似，使用Encoder端得到输入的表示�
 
 **Q：Transformer输入长文本的改进**
 
+Transformer-XL
+
+**Q：Transformer 用的 Layer Normalize 还是 Batch Normalize？有什么区别？**
+
+Transformer使用的是Layer Normalize。Layer Normalize是对隐层状态维度进行归一化，而Batch Normalize是对样本batch size维度进行归一化。
 
 ## References
 1. [Transformer详解](https://zhuanlan.zhihu.com/p/44121378)
@@ -31,5 +36,7 @@ Transformer训练过程与seq2seq类似，使用Encoder端得到输入的表示�
 4. [Transformer框架中的add&norm中的norm是什么样的归一化？](https://www.zhihu.com/question/309177367)
 5. [一些关于Transformer的问题整理](https://www.nowcoder.com/discuss/258321?type=2)
 6. [Transformer-XL](https://www.sohu.com/a/292688373_473283)
+7. [Transformer——理论篇](https://blog.csdn.net/qq_40240102/article/details/101752092)
+7. [详解深度学习中的Normalization](https://zhuanlan.zhihu.com/p/33173246)
 
 
