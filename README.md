@@ -13,3 +13,6 @@
 
 ### 编程
 1. [cout输出控制](https://github.com/Mikitok/Review/blob/master/Coding/CoutRules)
+
+### 数据库
+1.[关系型数据库范式](https://www.zhihu.com/question/24696366)
