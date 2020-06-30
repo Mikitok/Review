@@ -27,5 +27,5 @@
 4. 使用easy stopping，当validation accuracy多个epoch不提高之后，停止迭代，避免迭代次数过多
 
 ## References
-
+1. [过拟合](http://www.360doc.com/content/18/0805/10/11935121_775819522.shtml)
 
