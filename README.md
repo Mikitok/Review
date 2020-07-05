@@ -14,6 +14,9 @@
 ### 统计学习方法
 1. [概论](https://github.com/Mikitok/Review/tree/master/MachineLearning/Overview)
 
+### 深度学习
+1. [Overview](https://github.com/Mikitok/Review/tree/master/DeepLearning/Overview)
+
 ### 编程
 1. [cout输出控制](https://github.com/Mikitok/Review/blob/master/Coding/CoutRules)
 
