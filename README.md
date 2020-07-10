@@ -17,9 +17,11 @@
 
 ### 深度学习
 1. [Overview](https://github.com/Mikitok/Review/tree/master/DeepLearning/Overview)
+2. [网络优化](https://github.com/Mikitok/Review/tree/master/DeepLearning/Optimisation)
 
 ### 编程
-1. [cout输出控制](https://github.com/Mikitok/Review/blob/master/Coding/CoutRules)
+1. [tensorflow](https://github.com/Mikitok/Review/tree/master/DeepLearning/TF)
+2. [cout输出控制](https://github.com/Mikitok/Review/blob/master/Coding/CoutRules)
 
 ### 数据库
 1. [关系型数据库范式](https://www.zhihu.com/question/24696366)
