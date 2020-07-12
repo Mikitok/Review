@@ -6,6 +6,16 @@
 2. stochastic gradient descent（最初）的思想是每次只训练一个样本去更新参数。它的优点是对大数据集可以使用，但是也存在缺点，因为每次只用一个样本来更新参数，会导致模型的不稳定性大些，不一定朝着最优的方向优化，可能会有震荡产生。
 3. stochastic mini-batch gradient descent（现在SGD一般指的）这个，是batch gradient descent和stochastic gradient descent的折中方案，就是每次用batch_size数量的样本来更新参数。batch_size 通常设置为2的幂次方，因为设置成2的幂次方，更有利于GPU加速。
 
+**Q：SGD有什么缺点？**
+1.	选择合适的learning rate比较困难
+2.	对所有的参数更新使用同样的learning rate。对于稀疏数据或者特征，有时我们可能想更新快一些对于不经常出现的特征，对于常出现的特征更新慢一些，这时候SGD就不太能满足要求了
+3.	SGD容易收敛到局部最优
+
+
+
 ## References
 1. [几种梯度下降方法对比](https://blog.csdn.net/u012328159/article/details/80252012)
+2. [最优化方法系列](https://blog.csdn.net/bvl10101111/article/details/72615621)
+3. [神经网络中的各种优化方法](https://blog.csdn.net/autocyz/article/details/83114245)
+4. [深度学习最全优化方法总结比较](https://blog.csdn.net/u012759136/article/details/52302426/)
 
