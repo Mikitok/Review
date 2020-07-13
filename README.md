@@ -14,6 +14,7 @@
 ### 统计学习方法
 1. [概论](https://github.com/Mikitok/Review/tree/master/MachineLearning/Overview)
 2. [k近邻](https://github.com/Mikitok/Review/tree/master/MachineLearning/kNearestNeighbour)
+3. [决策树](https://github.com/Mikitok/Review/tree/master/MachineLearning/DecisionTree)
 
 ### 深度学习
 1. [Overview](https://github.com/Mikitok/Review/tree/master/DeepLearning/Overview)
