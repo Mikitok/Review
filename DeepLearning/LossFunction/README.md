@@ -20,6 +20,14 @@
 
 这个茴字写法太多，放一个[大全](https://zhuanlan.zhihu.com/p/50142573)。
 
+**Q：交叉熵为什么有负号？**
+
+负号是为了让Loss为正，这样loss可以越来越小。
+
+**Q：MSE和交叉熵的区别**
+1. 通常来说，MSE用于回归问题，交叉熵用于分类问题。
+2. 如果将MSE用于分类问题的话，根据计算公式来说，交叉熵在标签为0处是可以不用计算的，而MSE都要算一遍。MSE无差别得关注全部类别上预测概率和真实概率的差，交叉熵关注的是正确类别的预测概率。
+
 ## References
 1. [l1正则与l2正则的特点是什么，各有什么优势？](https://www.zhihu.com/question/26485586)
 2. [回归损失函数1：L1 loss, L2 loss以及Smooth L1 Loss的对比](https://www.cnblogs.com/wangguchangqing/p/12021638.html)
