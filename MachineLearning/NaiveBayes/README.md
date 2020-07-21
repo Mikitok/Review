@@ -52,4 +52,4 @@
 如上
 
 ## References
-1. (朴素贝叶斯算法的理解与实现)[https://www.cnblogs.com/lliuye/p/9178090.html]
+1. [朴素贝叶斯算法的理解与实现](https://www.cnblogs.com/lliuye/p/9178090.html)
