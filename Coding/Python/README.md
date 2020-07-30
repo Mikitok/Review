@@ -2,8 +2,8 @@
 1. GIL 是python的全局解释器锁，同一进程中假如有多个线程运行，一个线程在运行python程序的时候会霸占python解释器（加了一把锁即GIL），使该进程内的其他线程无法运行，等该线程运行完后其他线程才能运行。如果线程运行过程中遇到耗时操作，则解释器锁解开，使其他线程运行。所以在多线程中，线程的运行仍是有先后顺序的，并不是同时进行。
 2. 多进程中因为每个进程都能被系统分配资源，相当于每个进程有了一个python解释器，所以多进程可以实现多个进程的同时运行，缺点是进程系统资源开销大
 
-**Q：fun(\*args,**kwargs)中的\*args,**kwargs什么意思？**
-*args,**kwargs是python中的可变参数。*args表示任何多个无名参数，它是一个tuple；**kwargs表示关键字参数，它是一个dict。并且同时使用*args和**kwargs时，必须*args参数列要在**kwargs前。
+**Q：fun(\*args,\*\*kwargs)中的\*args,\*\*kwargs什么意思？**
+\*args、\*\*kwargs是python中的可变参数。\*args表示任何多个无名参数，它是一个tuple；\*\*kwargs表示关键字参数，它是一个dict。并且同时使用\*args和\*\*kwargs时，必须\*args参数列要在\*\*kwargs前。
 
 **Q：python中内置的数据结构有几种？**
 整型 int、浮点型 float、字符串 str、列表 list、元组 tuple、字典 dict 集合 set
