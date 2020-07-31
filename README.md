@@ -16,6 +16,7 @@
 2. [k近邻](https://github.com/Mikitok/Review/tree/master/MachineLearning/kNearestNeighbour)
 3. [决策树](https://github.com/Mikitok/Review/tree/master/MachineLearning/DecisionTree)
 4. [朴素贝叶斯](https://github.com/Mikitok/Review/tree/master/MachineLearning/NaiveBayes)
+5. [Logistic Regression](https://github.com/Mikitok/Review/blob/master/MachineLearning/LR)
 
 ### 深度学习
 1. [Overview](https://github.com/Mikitok/Review/tree/master/DeepLearning/Overview)
