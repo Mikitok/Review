@@ -25,6 +25,7 @@
 ### 编程
 1. [tensorflow](https://github.com/Mikitok/Review/tree/master/DeepLearning/TF)
 2. [cout输出控制](https://github.com/Mikitok/Review/blob/master/Coding/CoutRules)
+3. [Pyhton](https://github.com/Mikitok/Review/tree/master/Coding/Python)
 
 ### 数据库
 1. [关系型数据库范式](https://www.zhihu.com/question/24696366)
