@@ -22,6 +22,7 @@
 1. [Overview](https://github.com/Mikitok/Review/tree/master/DeepLearning/Overview)
 2. [网络优化](https://github.com/Mikitok/Review/tree/master/DeepLearning/Optimisation)
 3. [损失函数](https://github.com/Mikitok/Review/tree/master/DeepLearning/LossFunction)
+4. [分类](https://github.com/Mikitok/Review/tree/master/DeepLearning/Classification)
 
 ### 编程
 1. [tensorflow](https://github.com/Mikitok/Review/tree/master/DeepLearning/TF)
