@@ -27,6 +27,11 @@ Andrew NG有提到说，
 1. 优点：计算代价不高，易于理解和实现
 2. 缺点：容易欠拟合，分类精度可能不高。
 
+**Q：逻辑回归和线性回归有何**
+
+1. 区别：逻辑回归处理的是分类问题，线性回归处理的是回归问题。逻辑回归最终求得的结果是因变量的一个概率，而线性回归求得的是真实值的一个近似。
+2. 相同：可以认为两者都是用了极大似然估计来对样本进行建模，并且在求解过程中使用了梯度下降的方法。
+
 ## References
 1. [lr与svm如何选择](https://blog.csdn.net/ningyanggege/article/details/84950961)
 2. [由Logistic Regression所联想到的...](https://mp.weixin.qq.com/s?__biz=MzA4NTUxNTE4Ng==&mid=2247483830&idx=1&sn=3399777a45d168e5d8d58f57306cfad7&chksm=9fd78f6ba8a0067dd677c85ff0831bb83ffdfd6b281fc79e91b0d246cc21a1847ebce520980e&scene=21#wechat_redirect)
