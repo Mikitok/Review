@@ -16,13 +16,14 @@
 2. [k近邻](https://github.com/Mikitok/Review/tree/master/MachineLearning/kNearestNeighbour)
 3. [决策树](https://github.com/Mikitok/Review/tree/master/MachineLearning/DecisionTree)
 4. [朴素贝叶斯](https://github.com/Mikitok/Review/tree/master/MachineLearning/NaiveBayes)
-5. [Logistic Regression](https://github.com/Mikitok/Review/blob/master/MachineLearning/LR)
+5. [逻辑回归](https://github.com/Mikitok/Review/blob/master/MachineLearning/LR)
 
 ### 深度学习
 1. [Overview](https://github.com/Mikitok/Review/tree/master/DeepLearning/Overview)
 2. [网络优化](https://github.com/Mikitok/Review/tree/master/DeepLearning/Optimisation)
 3. [损失函数](https://github.com/Mikitok/Review/tree/master/DeepLearning/LossFunction)
 4. [分类](https://github.com/Mikitok/Review/tree/master/DeepLearning/Classification)
+5. [激活函数](https://github.com/Mikitok/Review/blob/master/DeepLearning/ActivationFunction.md)
 
 ### 编程
 1. [tensorflow](https://github.com/Mikitok/Review/tree/master/DeepLearning/TF)
