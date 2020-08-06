@@ -11,13 +11,14 @@
 4. [Attention](https://github.com/Mikitok/Review/blob/master/NLP/Attention)
 5. [Tansformer](https://github.com/Mikitok/Review/edit/master/NLP/Transformer)
 
-### 统计学习方法
+### 机器学习
 1. [概论](https://github.com/Mikitok/Review/tree/master/MachineLearning/Overview)
 2. [k近邻](https://github.com/Mikitok/Review/tree/master/MachineLearning/kNearestNeighbour)
 3. [决策树](https://github.com/Mikitok/Review/tree/master/MachineLearning/DecisionTree)
 4. [朴素贝叶斯](https://github.com/Mikitok/Review/tree/master/MachineLearning/NaiveBayes)
 5. [逻辑回归](https://github.com/Mikitok/Review/blob/master/MachineLearning/LR)
 6. [K均值](https://github.com/Mikitok/Review/blob/master/MachineLearning/Kmeans.md)
+7. [GBDT](https://github.com/Mikitok/Review/blob/master/MachineLearning/GBDT.md)
 
 ### 深度学习
 1. [Overview](https://github.com/Mikitok/Review/tree/master/DeepLearning/Overview)
