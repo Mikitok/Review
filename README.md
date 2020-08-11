@@ -26,6 +26,7 @@
 3. [损失函数](https://github.com/Mikitok/Review/tree/master/DeepLearning/LossFunction)
 4. [分类](https://github.com/Mikitok/Review/tree/master/DeepLearning/Classification)
 5. [激活函数](https://github.com/Mikitok/Review/blob/master/DeepLearning/ActivationFunction.md)
+6. [集成学习](https://github.com/Mikitok/Review/blob/master/DeepLearning/EnsembleLearning.md)
 
 ### 编程
 1. [tensorflow](https://github.com/Mikitok/Review/tree/master/DeepLearning/TF)
