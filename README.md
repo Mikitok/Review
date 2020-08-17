@@ -19,6 +19,7 @@
 5. [逻辑回归](https://github.com/Mikitok/Review/blob/master/MachineLearning/LR)
 6. [K均值](https://github.com/Mikitok/Review/blob/master/MachineLearning/Kmeans.md)
 7. [GBDT](https://github.com/Mikitok/Review/blob/master/MachineLearning/GBDT.md)
+8. [线性回归](https://github.com/Mikitok/Review/blob/master/MachineLearning/LinearRegression.md)
 
 ### 深度学习
 1. [Overview](https://github.com/Mikitok/Review/tree/master/DeepLearning/Overview)
