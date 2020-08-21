@@ -3,6 +3,7 @@
 
 ### 算法和数据结构
 1. [查找和排序](https://github.com/Mikitok/Review/blob/master/Algorithm/Search&sort/README.md)
+2. [计算方法](https://github.com/Mikitok/Review/blob/master/Algorithm/Calculation.md)
 
 ### NLP
 1. [Word Embedding](https://github.com/Mikitok/Review/tree/master/NLP/WordEmbedding)
