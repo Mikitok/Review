@@ -91,6 +91,11 @@ lambda 定义了一个匿名函数，lambda 并不会带来程序运行效率的
 3. 获取对象的引用计数，并根据返回值是否为 0 来判断是否内存泄漏。
 
 **Q：解释一下python中的闭包**
+在一个外函数中定义了一个内函数，内函数里运用了外函数的临时变量，并且外函数的返回值是内函数的引用。这样就构成了一个闭包。闭包是一种特殊情况，如果外函数在结束的时候发现有自己的临时变量将来会在内部函数中用到，就把这个临时变量绑定给了内部函数，然后自己再结束。
+
+**Q：闭包怎么通过内函数去修改外函数的变量**
+1. 在python3中，可以用nonlocal 关键字声明 一个变量， 表示这个变量不是局部变量空间的变量，需要向上一层变量空间找这个变量。
+2. 把闭包变量改成可变类型数据进行修改，比如列表。
 
 # References
 1. [python110道面试题](https://www.cnblogs.com/lmx123/p/9230589.html)
@@ -100,3 +105,4 @@ lambda 定义了一个匿名函数，lambda 并不会带来程序运行效率的
 5. [Python 为什么这么慢？](https://blog.csdn.net/chinesehuazhou2/article/details/90746215)
 6. [python中类方法，实例方法，静态方法的作用和区别](https://www.cnblogs.com/geogre123/p/10142510.html)
 7. [Python迭代器](https://www.cnblogs.com/louyefeng/p/9430415.html)
+8. [python中闭包详解](https://www.cnblogs.com/s-1314-521/p/9763376.html)
