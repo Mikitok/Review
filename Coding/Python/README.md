@@ -90,6 +90,8 @@ lambda 定义了一个匿名函数，lambda 并不会带来程序运行效率的
 2. 通过 Python 扩展模块 gc 来查看不能回收的对象的详细信息。
 3. 获取对象的引用计数，并根据返回值是否为 0 来判断是否内存泄漏。
 
+**Q：解释一下python中的闭包**
+
 # References
 1. [python110道面试题](https://www.cnblogs.com/lmx123/p/9230589.html)
 2. [Python: 什么是\*args和\*\*kwargs](https://www.cnblogs.com/yx12138/p/10742766.html)
